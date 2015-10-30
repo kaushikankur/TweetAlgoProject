@@ -1,0 +1,31 @@
+#lg {
+	color: yellow;
+	width:100%
+	float:left;
+	position: absolute;
+	top:0;
+	left:0;
+	overflow:hidden;
+}
+
+ #one{
+ `	float :right;
+	position: absolute;
+	display: inline-block;
+	color:red;
+} 
+#two{
+	float :right;
+	color:red;
+	right:10%;
+	position: absolute;
+	display: inline-block;
+	
+}
+#p{
+	float:right;
+	display: inline-block;
+	color:red;
+	right:5%;
+	
+}
